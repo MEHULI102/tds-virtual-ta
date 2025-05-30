@@ -1,0 +1,11 @@
+providers:
+  - name: tds-virtual-ta
+    config:
+      url: http://localhost:8000/api/
+scenarios:
+  - name: "Question about GPT version"
+    vars:
+      question: "Should I use gpt-4o-mini which AI proxy supports, or gpt3.5 turbo?"
+  - name: "Clarification on GA5 question"
+    vars:
+      question: "How should I approach GA5 question 8?"
