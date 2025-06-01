@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Use GPT-3.5 Turbo for GA5",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/example1/12345",
+    "created_at": "2025-03-10"
+  },
+  {
+    "id": 2,
+    "title": "Clarification on tokenizer and pricing",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/example2/12346",
+    "created_at": "2025-03-15"
+  }
+]

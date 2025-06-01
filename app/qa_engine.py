@@ -5,8 +5,11 @@ import base64
 import pytesseract
 from PIL import Image
 import io
+import os
 
-OPENAI_API_KEY = "your_api_key_here"
+import openai
+
+openai.api_key = "KEY"
 
 def image_to_text(image_b64: str) -> str:
     try:
